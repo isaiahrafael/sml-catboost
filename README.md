@@ -1,7 +1,5 @@
 # 🏡 House Hunter: Powered by CatBoost
 
-Hey team,
-
 This repo contains a Jupyter Notebook (`catboost.ipynb`) that walks through predicting house prices using the Ames Housing dataset and CatBoost. It's designed to be simple, readable, and easy to tweak. You’ll find everything from data prep to training, evaluation, and some light tuning.
 
 ---
